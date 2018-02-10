@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alicebnelson/cat-finder/issues"
   },
-  "homepage": "https://github.com/alicebnelson/cat-finder#readme"
+  "homepage": "https://github.com/alicebnelson/cat-finder#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
