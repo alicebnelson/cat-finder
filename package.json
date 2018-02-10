@@ -1,0 +1,20 @@
+{
+  "name": "cat-finder",
+  "version": "1.0.0",
+  "description": "Find a playdate for your feline friend! Do a quick survey about your cat and we can find you the perfect match.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicebnelson/cat-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicebnelson/cat-finder/issues"
+  },
+  "homepage": "https://github.com/alicebnelson/cat-finder#readme"
+}
